@@ -3,8 +3,8 @@
     <h1>New User Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <label for="fname"><b>First Name</b></label>
+    <input type="text" placeholder="Enter Frist Name" name="fname" id="fname" required>
     <br>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
