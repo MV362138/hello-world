@@ -3,22 +3,22 @@
     <h1>New User Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <label for="fname"><b>First Name:</b></label>
+    <label for="fname"><b>First Name :</b></label>
     <input type="text" placeholder="Enter Frist Name" name="fname" id="fname" required>
     <br>
-    <label for="lname"><b>Last Name:</b></label>
+    <label for="lname"><b>Last Name :</b></label>
     <input type="text" placeholder="Enter Last Name" name="lname" id="lname" required>
     <br>
-    <label for="email"><b>Email:</b></label>
+    <label for="email"><b>Email :</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
-    <label for="phone"><b>Phone:</b></label>
+    <label for="phone"><b>Phone :</b></label>
     <input type="text" placeholder="Enter Phone" name="phone" id="phone" required>
     <br>
-    <label for="psw"><b>Password:</b></label>
+    <label for="psw"><b>Password :</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
-    <label for="psw-repeat"><b>Repeat Password:</b></label>
+    <label for="psw-repeat"><b>Repeat Password :</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
